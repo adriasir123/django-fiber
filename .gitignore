@@ -1,0 +1,10 @@
+*.pyc
+/build/
+/dist/
+/testproject/reports/
+#/testproject/static/
+django_fiber.egg-info
+.tox
+
+testproject/fiber_test/__pycache__
+testproject/testproject/__pycache__
